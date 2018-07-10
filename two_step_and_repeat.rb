@@ -57,7 +57,6 @@ def break_dance
   else 
     puts "Right"
   sleep (0.5)
-  loop do 
     if steps == 6
       break 
   end 
