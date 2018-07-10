@@ -36,7 +36,7 @@ a_few_more_steps
 
 
 def how_many_steps
-  steps=0 
+  steps=0
   while
   steps += 1 
   if steps % 2 == 0 
